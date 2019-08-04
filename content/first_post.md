@@ -18,4 +18,8 @@ We're writing this is in Markdown format so we can use two * symbols to indicate
 We can also use a single * around a block of text to indicate an *italicised* word.
 
 
+###Let's throw an image in here
+
+![Author's Face]({static}/images/a1ex_ve9an_100_100.jpg)
+
 THE END! (Cool story bro!)
