@@ -17,6 +17,18 @@ We're writing this is in Markdown format so we can use two * symbols to indicate
 
 We can also use a single * around a block of text to indicate an *italicised* word.
 
+> This paragraph is showed the quote: Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world. @ [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
+
+...
+
+~~~~
+Next element limited by four ~ tildes on top and bottom for paragraph colorization
+
+Never give up on what you really want to do. 
+The person with big dreams is more powerful than the one with all the facts.
+~~~~
+
+You can mark most important `word` or `group of words` from sentence.
 
 ###Let's throw an image in here
 
